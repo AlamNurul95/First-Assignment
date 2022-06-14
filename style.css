@@ -13,7 +13,7 @@ body {
 
 }
 
-.first-area h1 {
+h1 {
     color: gray;
     font-weight: bolder;
     font-size: 50px;
@@ -34,4 +34,22 @@ body {
 
 .first-img {
     width: 50%;
+}
+
+.person-img {
+    width: 100%;
+
+
+}
+
+.mid-pera {
+    color: black;
+    padding-bottom: 10%;
+}
+
+.mid-section {
+    display: flex;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+
 }
