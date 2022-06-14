@@ -60,3 +60,16 @@ h1 {
     text-align-last: center;
 
 }
+
+.tuna-recipi {
+    padding-left: 70px;
+}
+
+.tuna-recipi img {
+    width: 30%;
+}
+
+
+h2 {
+    color: black;
+}
