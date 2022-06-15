@@ -66,10 +66,33 @@ h1 {
 }
 
 .tuna-recipi img {
-    width: 30%;
+    width: 80%;
 }
 
 
 h2 {
-    color: black;
+    color: gray;
+}
+
+.cake-recipi img {
+    width: 80%;
+}
+
+.cake-recipi {
+    padding-left: 70px;
+}
+
+.box {
+    display: flex;
+    padding-top: 70px;
+
+}
+
+.soup-recipi img {
+    width: 80%;
+
+}
+
+.soup-recipi {
+    padding-left: 90px;
 }
