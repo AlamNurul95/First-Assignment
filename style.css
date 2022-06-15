@@ -4,13 +4,11 @@ body {
 
 .first-section {
     display: flex;
-
 }
 
 .first-area {
     width: 50%;
     padding: 100px 60px;
-
 }
 
 h1 {
@@ -42,19 +40,19 @@ h1 {
 
 }
 
+.mid-section {
+    display: flex;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat
+}
+
 .mid-pera {
     color: black;
     padding-bottom: 10%;
 }
 
-.mid-section {
-    display: flex;
-    background-image: url(images/shapes/7.png);
-    background-repeat: no-repeat;
-
-}
-
 .recipi-pera {
+
     color: black;
     text-align: center;
     text-align-last: center;
@@ -85,6 +83,7 @@ h2 {
 .box {
     display: flex;
     padding-top: 70px;
+    padding-bottom: 70px;
 
 }
 
@@ -95,4 +94,19 @@ h2 {
 
 .soup-recipi {
     padding-left: 90px;
+}
+
+.footer-area {
+    background-color: rgb(7, 1, 20);
+    padding: 70px 30px;
+}
+
+.footer-area h2 {
+    text-align: center;
+    color: gray;
+}
+
+.footer-area p {
+    text-align: center;
+    color: white;
 }
